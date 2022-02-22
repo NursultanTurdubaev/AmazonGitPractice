@@ -1,4 +1,4 @@
-package com.digital_nomads.javaFall2021.applications.Amazon;
+package com.digital_nomads.javaFall2021.Amazon;
 
 public class BugFix {
     public static void main(String[] args) {

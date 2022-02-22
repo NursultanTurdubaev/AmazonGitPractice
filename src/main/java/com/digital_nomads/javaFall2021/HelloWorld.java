@@ -1,4 +1,4 @@
-package com.digital_nomads.javaFall2021.applications;
+package com.digital_nomads.javaFall2021;
 
 public class HelloWorld {
     public static void main(String[] args) {

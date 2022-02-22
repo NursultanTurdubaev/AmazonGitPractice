@@ -1,4 +1,4 @@
-package com.digital_nomads.javaFall2021.applications.exceptions;
+package com.digital_nomads.javaFall2021.exceptions;
 
 import java.io.File;
 import java.io.FileNotFoundException;
