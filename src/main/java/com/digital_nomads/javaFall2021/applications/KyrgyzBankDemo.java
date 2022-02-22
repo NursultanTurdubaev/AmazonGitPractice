@@ -1,4 +1,5 @@
 package com.digital_nomads.javaFall2021.applications;
+
 import static com.digital_nomads.javaFall2021.applications.KyrgyzstanBankInterface.*;
 
 public class KyrgyzBankDemo {

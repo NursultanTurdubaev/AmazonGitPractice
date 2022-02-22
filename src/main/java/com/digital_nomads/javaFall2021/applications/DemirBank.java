@@ -1,6 +1,6 @@
 package com.digital_nomads.javaFall2021.applications;
 
-public class DemirBank extends BankBase{
+public class DemirBank extends BankBase {
     private double balance = 100;
 
 

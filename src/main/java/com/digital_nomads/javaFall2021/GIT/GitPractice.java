@@ -1,4 +1,4 @@
-package com.digital_nomads.javaFall2021.applications.GIT;
+package com.digital_nomads.javaFall2021.GIT;
 
 public class GitPractice {
     public static void main(String[] args) {
